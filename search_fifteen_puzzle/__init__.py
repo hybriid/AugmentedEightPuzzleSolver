@@ -1,0 +1,3 @@
+from search_fifteen_puzzle.a_star_search import a_star_search
+from search_fifteen_puzzle.machine_learning_search_2 import machine_learning_search_2
+from search_fifteen_puzzle.machine_learning_search import machine_learning_search
